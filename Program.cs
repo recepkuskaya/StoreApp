@@ -3,4 +3,6 @@ var app = builder.Build();
 
 app.MapGet("/", () => "Hello World!");
 
+app.MapGet("/git", () => "git kurulumu");
+
 app.Run();
