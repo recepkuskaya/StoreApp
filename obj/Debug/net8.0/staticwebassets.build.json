@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "sME381v9fwVDpVeSwE5EBZBAHFY9HxjxUlMd9E/7q7Q=",
+  "Hash": "C44mB8DGjARR2LIIugC/CD9Gcah1sUtlq0+gf2GJPbA=",
   "Source": "StoreApp",
   "BasePath": "_content/StoreApp",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
